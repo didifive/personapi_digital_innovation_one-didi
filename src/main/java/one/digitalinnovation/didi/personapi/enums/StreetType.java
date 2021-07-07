@@ -5,11 +5,12 @@ import lombok.Getter;
 
 @Getter
 @AllArgsConstructor
-public enum PhoneType {
+public enum StreetType {
 
-    HOME("Residencial"),
-    MOBILE("Celular"),
-    COMMERCIAL("Comercial");
+    AVENUE("Alameda"),
+    BOULEVARD("Avenida"),
+    BYSTREET("Travessa"),
+    STREET("Rua");
 
     private final String description;
 }
