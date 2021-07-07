@@ -5,7 +5,7 @@ Projeto desenvolvimento com instruções de [Rodrigo Peleias](https://github.com
 
 Link da base utilizada: [rpeleias/personapi_digital_innovation_one](https://github.com/rpeleias/personapi_digital_innovation_one)
 
-Publicado no Cloud da [Hiroku](https://www.heroku.com/).
+Publicado no Cloud da [Heroku](https://www.heroku.com/).
 
 Versões utilizadas:
 
