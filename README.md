@@ -66,3 +66,7 @@ Para consultar os cadastros já feitos basta acessar os links:
 Para visualizar um cadastro em específico (GET), atualizar (PUT) ou deletar (DELETE), é necessário informar o id do cadastro após o endereço do API, exemplo:
 
 DELETE `http://people-didi.herokuapp.com/api/v1/people/1`
+
+----
+
+Para aprimoramento do projeto falta relacionar o id do District com a classe Address, e relacionar o id da City com o District, e atualizar o GET de people e district para que apareça os dados do relacionamento corretamente.
